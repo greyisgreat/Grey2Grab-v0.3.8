@@ -4,6 +4,8 @@
 
 GREY2GRAB is a GRAB-focused AI system designed to turn map ideas into detailed, playable GRAB levels.
 
+Unlike A Normal Prompt Which Is What Grey2Grab Started With You Can See Edits And Creations In Real Time
+
 The goal isn't simply to generate valid JSON. GREY2GRAB is designed to understand the structure and design of high-quality GRAB maps so it can create levels with intentional gameplay, visual detail, natural variation, and meaningful progression.
 
 ## What It Does
